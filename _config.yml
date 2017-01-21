@@ -1,5 +1,25 @@
-title: Yeah, It's comming
-description: 安静的技术笔记
+title: h0ngyue的杂货笔记
+description: 记录一些想记录、有趣的事
+url: lovedota.me
+author: h0ngyue
+
+email: kikyo1206@gmail.com
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  h0ngyue
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
 show_downloads: false
 google_analytics:
-theme:
+
+
+
