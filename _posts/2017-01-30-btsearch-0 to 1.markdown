@@ -1,0 +1,33 @@
+---
+layout:     post
+title:      "探索笔记~"
+subtitle:   ""
+date:       2015-01-29 12:00:00
+author:     "h0ngyue"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - Javascript
+    - redis
+    - mysql
+    - search
+    - bt
+---
+
+
+> 额，做点关于搜索小站的笔记
+
+
+* 学习redis
+* 学习Javascript
+* 学习mysql
+* 学习elasticsearch
+
+* DtsSpider to get hash，放入redis
+* 根据hash得到种子文件：其中又分为解析为种子url，然后下载下来
+* 解析种子文件的信息，并存入数据库（mysql）
+* 搭建elasticsearch
+* 搜索分词
+* 前端页面用react搭建web app
+* 性能？多线程（pm2）？
+* 待续。。。
+
