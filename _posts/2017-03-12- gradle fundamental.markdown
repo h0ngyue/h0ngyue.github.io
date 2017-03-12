@@ -2,13 +2,11 @@
 layout:     post
 title:      "gradle fundamentals"
 subtitle:   ""
-date:       2015-01-29 12:00:00
+date:       2015-03-12 17:33:00
 author:     "h0ngyue"
 header-img: "img/post-bg-2015.jpg"
 tags:
-    - node.js
-    - ubuntu
-    - env
+    - gradle
 ---
 
 #### 自动运行当前目录下build.gradle里的任务名为taskName的任务
