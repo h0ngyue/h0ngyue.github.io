@@ -9,6 +9,6 @@ tags:
     - gradle
 ---
 
-ref: [QuickStart] (https://docs.gradle.org/current/userguide/tutorial_java_projects.html#javaQuickstart)
+ref: [QuickStart](https://docs.gradle.org/current/userguide/tutorial_java_projects.html#javaQuickstart)
 
 ref: [Full Doc](https://docs.gradle.org/current/userguide/java_plugin.html)
