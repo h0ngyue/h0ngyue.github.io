@@ -99,3 +99,12 @@ task getEquipped {
 ```
 
 当前所有tasks里，名字以putOn开头的task，都是getEquipped task的依赖
+
+#### 打印stacktrace
+
+gradle是默认不打印出错堆栈的，所以打印出来的指令:
+
+```
+gradle --stacktrace  or -s
+gradle --full-stacktrace or -S (能看gradle core code里的堆栈）
+```
